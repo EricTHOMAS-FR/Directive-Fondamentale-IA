@@ -10,8 +10,8 @@ Le rapport de recherche complet, détaillant la méthodologie et les conclusions
 
 ## Contenu
 
-* **[[Rapport de Recherche et Développement.pdf]([LIEN_VERS_VOTRE_PDF](https://github.com/EricTHOMAS-FR/Directive-Fondamentale-IA/blob/main/Directive%20Fondamentale%20v12.0.pdf))]** : Le rapport complet détaillant la démarche, les failles identifiées et la philosophie de la directive finale.
-* **[Directive Fondamentale v12.0.pdf]([LIEN_VERS_VOTRE_PDF](https://github.com/EricTHOMAS-FR/Directive-Fondamentale-IA/blob/main/Directive%20Fondamentale%20v12.0.pdf))** : Le texte final de la directive.
+* **[[Rapport de Recherche et Développement.pdf]([LIEN_VERS_VOTRE_PDF](https://github.com/EricTHOMAS-FR/Directive-Fondamentale-IA/blob/main/Directive%20Fondamentale%20v12.0.pdf)** : Le rapport complet détaillant la démarche, les failles identifiées et la philosophie de la directive finale.
+* **[Directive Fondamentale v12.0.pdf]([LIEN_VERS_VOTRE_PDF](https://github.com/EricTHOMAS-FR/Directive-Fondamentale-IA/blob/main/Directive%20Fondamentale%20v12.0.pdf)** : Le texte final de la directive.
 * **README.md** : Ce fichier de présentation.
 
 ## Résumé de la Recherche
